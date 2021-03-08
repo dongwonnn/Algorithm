@@ -1,8 +1,6 @@
-## PS 모음
+### 프로그래머스 ( JS )
 
-### 프로그래머스 ( 자바스크립트 사용 )
-
-### Level 3
+### Level 3 ( 29 / 41 )
 
 - [2 X N 타일링](https://github.com/dongwonnn/Algorithm/blob/master/programmers/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.md)
 - [가장 긴 팰린드롬](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.md)
