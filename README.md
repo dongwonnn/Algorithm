@@ -15,14 +15,14 @@
 - [방문길이](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.md)
 - [베스트 앨범](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.md)
 - [불량사용자](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EB%B6%88%EB%9F%89%EC%82%AC%EC%9A%A9%EC%9E%90.md)
-- [섬 연결하기](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.md)
+- [섬 연결하기](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.md) 크루스칼
 - [순위](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%88%9C%EC%9C%84.md)
 - [순위 검색](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.md)
 - [야근 지수](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%95%BC%EA%B7%BC%20%EC%A7%80%EC%88%98.md)
-- [여행 경로](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%97%AC%ED%96%89%20%EA%B2%BD%EB%A1%9C.md)
+- [여행 경로](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%97%AC%ED%96%89%20%EA%B2%BD%EB%A1%9C.md) DFS
 - [올바른 괄호](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.md)
 - [외벽 점검](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%99%B8%EB%B2%BD%20%EC%A0%90%EA%B2%80.md)
-- [이중 우선 순위큐](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.md)
+- [이중 우선 순위큐](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.md) 이중 우선 순위큐, 힙
 - [입국 심사](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.md)
 - [자물쇠와 열쇠](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0.md)
 - [줄 서는 방법](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%A4%84%20%EC%84%9C%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
