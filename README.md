@@ -12,23 +12,24 @@
 
 ### Level 3 ( 29 / 41 )
 
-| 순번 |    문제 이름     |         유형          | 풀이 링크 |
-| :--: | :--------------: | :-------------------: | :-------: |
-|  01  | 이중 우선 순위큐 | 이중 우선 순위 큐, 힙 |  [🔗]()   |
-|  02  |    여행 경로     |          DFS          |  [🔗]()   |
-|  03  |   섬 연결하기    |       크루스칼        |  [🔗]()   |
-|  04  |       순위       |     플로이드 와샬     |  [🔗]()   |
-|  05  |  좌물쇠와 열쇠   |         구현          |  [🔗]()   |
-|  06  |  합승 택시 요금  |     플로이드 와샬     |  [🔗]()   |
-|  07  |  풍선 터트리기   |         구현          |  [🔗]()   |
+| 순번 |    문제 이름     |         유형          |                                                                   풀이 링크                                                                    |
+| :--: | :--------------: | :-------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: | --- |
+|  01  | 이중 우선 순위큐 | 이중 우선 순위 큐, 힙 | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.md) |
+|  02  |    여행 경로     |          DFS          |              [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%EC%97%AC%ED%96%89_%EA%B2%BD%EB%A1%9C.md)              |
+|  03  |   섬 연결하기    |       크루스칼        |         [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%EC%84%AC_%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.md)          |
+|  04  |       순위       |     플로이드 와샬     |                       [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%EC%88%9C%EC%9C%84.md)                        |
+|  05  |  좌물쇠와 열쇠   |         구현          |     [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80_%EC%97%B4%EC%87%A0.md)     |
+|  06  |  합승 택시 요금  |     플로이드 와샬     |    [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%ED%95%A9%EC%8A%B9_%ED%83%9D%EC%8B%9C_%EC%9A%94%EA%B8%88.md)     |
+|  07  |  풍선 터트리기   |         구현          |     [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%ED%92%8D%EC%84%A0%ED%84%B0%ED%8A%B8%EB%A6%AC%EA%B8%B0.md)      |
+|  08  |     네트워크     |          DFS          |              [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)               |     |
+|  09  |    단어 변환     |          DFS          |              [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%EB%8B%A8%EC%96%B4_%EB%B3%80%ED%99%98.md)              |     |
+|  10  |   가장 먼 노드   |          BFS          |         [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%EA%B0%80%EC%9E%A5_%EB%A8%BC_%EB%85%B8%EB%93%9C.md)         |
 
 - [가장 긴 팰린드롬](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.md)
 - [가장 먼 노드](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.md)
 - [거스름 돈](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.md)
 - [기둥과 보 설치](https://github.com/dongwonnn/Algorithm/tree/master/programmers)
-- [네트워크](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
 - [단속 카메라](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.md)
-- [단어 변환](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.md)
 - [멀리뛰기](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EB%A9%80%EB%A6%AC%EB%9B%B0%EA%B8%B0.md)
 - [메뉴 리뉴얼](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC.md)
 - [방문길이](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.md)
