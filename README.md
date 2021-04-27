@@ -2,13 +2,13 @@
 
 ### Level 2
 
-| 순번 |        문제 이름         |         유형         |                                                                          풀이 링크                                                                          |
-| :--: | :----------------------: | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  00  | Jaden Case 문자열 만들기 |        문자열        | <a href="https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/Jaden%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md">🔗</a> |
-|  01  |     짝지어 제거하기      |     문자열, 스택     |      [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)      |
-|  03  |       예상 대진표        |         트리         |               [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.md)               |
-|  04  |     뉴스 클러스트링      | 문자열, 정규식, 집합 |      [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A7%81.md)      |
-|  05  |     N개의 최소공배수     |       GCD, LCD       |     [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)      |
+| 순번 |        문제 이름         |         유형         |                                                                    풀이 링크                                                                     |
+| :--: | :----------------------: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
+|  00  | Jaden Case 문자열 만들기 |        문자열        |   [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/Jaden_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)   |
+|  01  |     짝지어 제거하기      |     문자열, 스택     | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%A7%9D%EC%A7%80%EC%96%B4_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)  |
+|  03  |       예상 대진표        |         트리         |          [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%98%88%EC%83%81_%EB%8C%80%EC%A7%84%ED%91%9C.md)           |
+|  04  |     뉴스 클러스트링      | 문자열, 정규식, 집합 | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EB%89%B4%EC%8A%A4_%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A7%81.md)  |
+|  05  |     N개의 최소공배수     |       GCD, LCD       | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) |
 
 ### Level 3 ( 29 / 41 )
 
