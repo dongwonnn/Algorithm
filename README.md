@@ -12,35 +12,15 @@
 
 ### Level 3 ( 29 / 41 )
 
-| 순번 |    문제 이름     |         유형          |                                                                풀이 링크                                                                |
-| :--: | :--------------: | :-------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-|  01  | 이중 우선 순위큐 | 이중 우선 순위 큐, 힙 | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.md) |
-|  02  |    여행 경로     |          DFS          |             [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%97%AC%ED%96%89%20%EA%B2%BD%EB%A1%9C.md)             |
-|  03  |   섬 연결하기    |       크루스칼        |        [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.md)         |
-|  04  |       순위       |     플로이드 와샬     |                       [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%88%9C%EC%9C%84.md)                        |
-|  05  |  좌물쇠와 열쇠   |         구현          |    [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0.md)    |
-|  06  |  합승 택시 요금  |     플로이드 와샬     |  [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%ED%95%A9%EC%8A%B9%20%ED%83%9D%EC%8B%9C%20%EC%9A%94%EA%B8%88.md)   |
-|  07  |  풍선 터트리기   |         구현          |     [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%ED%92%8D%EC%84%A0%ED%84%B0%ED%8A%B8%EB%A6%AC%EA%B8%B0.md)      |
-|  08  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  11  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  12  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  13  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  14  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  15  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  16  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  17  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  18  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  19  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  20  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  21  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  22  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  23  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  24  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  25  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  26  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  27  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  28  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
-|  29  | N개의 최소공배수 |       GCD, LCD        |                                                                [🔗](dsa)                                                                |
+| 순번 |    문제 이름     |         유형          | 풀이 링크 |
+| :--: | :--------------: | :-------------------: | :-------: |
+|  01  | 이중 우선 순위큐 | 이중 우선 순위 큐, 힙 |  [🔗]()   |
+|  02  |    여행 경로     |          DFS          |  [🔗]()   |
+|  03  |   섬 연결하기    |       크루스칼        |  [🔗]()   |
+|  04  |       순위       |     플로이드 와샬     |  [🔗]()   |
+|  05  |  좌물쇠와 열쇠   |         구현          |  [🔗]()   |
+|  06  |  합승 택시 요금  |     플로이드 와샬     |  [🔗]()   |
+|  07  |  풍선 터트리기   |         구현          |  [🔗]()   |
 
 - [가장 긴 팰린드롬](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.md)
 - [가장 먼 노드](https://github.com/dongwonnn/Algorithm/blob/master/programmers/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.md)
