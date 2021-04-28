@@ -9,11 +9,11 @@
 |  03  |       예상 대진표        |         트리         |          [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%98%88%EC%83%81_%EB%8C%80%EC%A7%84%ED%91%9C.md)           |
 |  04  |     뉴스 클러스트링      | 문자열, 정규식, 집합 | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EB%89%B4%EC%8A%A4_%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A7%81.md)  |
 |  05  |     N개의 최소공배수     |       GCD, LCD       | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) |
-|  06  |          프린터          |       GCD, LCD       | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) |
-|  07  |         기능개발         |       GCD, LCD       | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) |
-|  08  |     124 나라의 숫자      |       GCD, LCD       | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) |
-|  09  |    다리를 지나는 트럭    |       GCD, LCD       | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) |
-|  10  |       문자열 압축        |       GCD, LCD       | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) |
+|  06  |          프린터          |       큐, 해싱       | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) |
+|  07  |         기능개발         |         구현         | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) |
+|  08  |     124 나라의 숫자      |         구현         | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) |
+|  09  |    다리를 지나는 트럭    |          큐          | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) |
+|  10  |       문자열 압축        |        문자열        | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) |
 
 ### Level 3 ( 29 / 41 )
 
