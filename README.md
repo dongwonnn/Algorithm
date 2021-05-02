@@ -1,19 +1,28 @@
 ### 프로그래머스 ( JS )
 
-### Level 2 (10 / 53)
+### Level 2 (19 / 53)
 
-| 순번 |        문제 이름         |         유형         |                                                                         풀이 링크                                                                         |
-| :--: | :----------------------: | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  00  | Jaden Case 문자열 만들기 |        문자열        |       [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/Jaden_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)        |
-|  01  |     짝지어 제거하기      |     문자열, 스택     |      [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%A7%9D%EC%A7%80%EC%96%B4_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)      |
-|  03  |       예상 대진표        |         트리         |               [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%98%88%EC%83%81_%EB%8C%80%EC%A7%84%ED%91%9C.md)               |
-|  04  |     뉴스 클러스트링      | 문자열, 정규식, 집합 |      [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EB%89%B4%EC%8A%A4_%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A7%81.md)      |
-|  05  |     N개의 최소공배수     |       GCD, LCD       |     [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)      |
-|  06  |          프린터          |       큐, 해싱       |                        [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%ED%94%84%EB%A6%B0%ED%84%B0.md)                         |
-|  07  |         기능개발         |         구현         |                    [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.md)                    |
-|  08  |     124 나라의 숫자      |         구현         |             [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/124_%EB%82%98%EB%9D%BC%EC%9D%98_%EC%88%AB%EC%9E%90.md)             |
-|  09  |    다리를 지나는 트럭    |          큐          | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EB%8B%A4%EB%A6%AC%EB%A5%BC_%EC%A7%80%EB%82%98%EB%8A%94_%ED%8A%B8%EB%9F%AD.md) |
-|  10  |       문자열 압축        |        문자열        |               [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%95%95%EC%B6%95.md)               |
+| 순번 |        문제 이름         |         유형         |                                                                              풀이 링크                                                                              |
+| :--: | :----------------------: | :------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  00  | Jaden Case 문자열 만들기 |        문자열        |            [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/Jaden_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)             |
+|  01  |     짝지어 제거하기      |     문자열, 스택     |           [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%A7%9D%EC%A7%80%EC%96%B4_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)           |
+|  03  |       예상 대진표        |         트리         |                    [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%98%88%EC%83%81_%EB%8C%80%EC%A7%84%ED%91%9C.md)                    |
+|  04  |     뉴스 클러스트링      | 문자열, 정규식, 집합 |           [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EB%89%B4%EC%8A%A4_%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A7%81.md)           |
+|  05  |     N개의 최소공배수     |       GCD, LCD       |          [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)           |
+|  06  |          프린터          |       큐, 해싱       |                             [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%ED%94%84%EB%A6%B0%ED%84%B0.md)                              |
+|  07  |         기능개발         |         구현         |                         [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.md)                         |
+|  08  |     124 나라의 숫자      |         구현         |                  [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/124_%EB%82%98%EB%9D%BC%EC%9D%98_%EC%88%AB%EC%9E%90.md)                  |
+|  09  |    다리를 지나는 트럭    |          큐          |      [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EB%8B%A4%EB%A6%AC%EB%A5%BC_%EC%A7%80%EB%82%98%EB%8A%94_%ED%8A%B8%EB%9F%AD.md)      |
+|  10  |       문자열 압축        |        문자열        |                    [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%95%95%EC%B6%95.md)                    |
+|  11  |       큰 수 만들기       |     그리디, 스택     |                   [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%ED%81%B0_%EC%88%98_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)                    |
+|  12  |        가장 큰 수        |        문자열        |                        [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B0%80%EC%9E%A5_%ED%81%B0%EC%88%98.md)                         |
+|  13  |         H_Index          |   정렬, 완전 탐색    |                                       [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/H_Index.md)                                        |
+|  14  |           위장           |         해시         |                                  [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%9C%84%EC%9E%A5.md)                                  |
+|  15  |       올바른 괄호        |        문자열        |                    [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%98%AC%EB%B0%94%EB%A5%B8_%EA%B4%84%ED%98%B8.md)                    |
+|  16  |           카펫           |      완전 탐색       |                                  [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%B9%B4%ED%8E%AB.md)                                  |
+|  17  |        타겟 넘버         |         DFS          |                   [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%ED%81%B0_%EC%88%98_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)                    |
+|  18  |        구명 보트         |        그리디        |                        [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B5%AC%EB%AA%85_%EB%B3%B4%ED%8A%B8.md)                         |
+|  19  |  가장 큰 정사각형 찾기   |          DP          | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95_%EC%B0%BE%EA%B8%B0.md) |
 
 ### Level 3 ( 29 / 41 )
 
