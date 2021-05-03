@@ -4,8 +4,8 @@
 
 | 순번 |        문제 이름         |         유형         |                                                                              풀이 링크                                                                              |
 | :--: | :----------------------: | :------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  00  | Jaden Case 문자열 만들기 |        문자열        |            [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/Jaden_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)             |
-|  01  |     짝지어 제거하기      |     문자열, 스택     |           [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%A7%9D%EC%A7%80%EC%96%B4_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)           |
+|  01  | Jaden Case 문자열 만들기 |        문자열        |            [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/Jaden_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)             |
+|  02  |     짝지어 제거하기      |     문자열, 스택     |           [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%A7%9D%EC%A7%80%EC%96%B4_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)           |
 |  03  |       예상 대진표        |         트리         |                    [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%98%88%EC%83%81_%EB%8C%80%EC%A7%84%ED%91%9C.md)                    |
 |  04  |     뉴스 클러스트링      | 문자열, 정규식, 집합 |           [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EB%89%B4%EC%8A%A4_%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A7%81.md)           |
 |  05  |     N개의 최소공배수     |       GCD, LCD       |          [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)           |
@@ -23,6 +23,10 @@
 |  17  |        타겟 넘버         |         DFS          |                        [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%ED%83%80%EA%B2%9F_%EB%84%98%EB%B2%84.md)                         |
 |  18  |        구명 보트         |        그리디        |                        [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B5%AC%EB%AA%85_%EB%B3%B4%ED%8A%B8.md)                         |
 |  19  |  가장 큰 정사각형 찾기   |          DP          | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95_%EC%B0%BE%EA%B8%B0.md) |
+|  20  |      멀쩡한 사각형       |                      | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95_%EC%B0%BE%EA%B8%B0.md) |
+|  21  |      괄호 회전하기       |                      | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95_%EC%B0%BE%EA%B8%B0.md) |
+|  22  |     게임 맵 최단거리     |                      | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95_%EC%B0%BE%EA%B8%B0.md) |
+|  23  |   행렬 테두리 회전하기   |                      | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95_%EC%B0%BE%EA%B8%B0.md) |
 
 ### Level 3 ( 29 / 41 )
 
