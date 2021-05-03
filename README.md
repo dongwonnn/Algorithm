@@ -20,7 +20,7 @@
 |  14  |           위장           |         해시         |                                  [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%9C%84%EC%9E%A5.md)                                  |
 |  15  |       올바른 괄호        |        문자열        |                    [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%98%AC%EB%B0%94%EB%A5%B8_%EA%B4%84%ED%98%B8.md)                    |
 |  16  |           카펫           |      완전 탐색       |                                  [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%B9%B4%ED%8E%AB.md)                                  |
-|  17  |        타겟 넘버         |         DFS          |                   [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%ED%81%B0_%EC%88%98_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)                    |
+|  17  |        타겟 넘버         |         DFS          |                        [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%ED%83%80%EA%B2%9F_%EB%84%98%EB%B2%84.md)                         |
 |  18  |        구명 보트         |        그리디        |                        [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B5%AC%EB%AA%85_%EB%B3%B4%ED%8A%B8.md)                         |
 |  19  |  가장 큰 정사각형 찾기   |          DP          | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95_%EC%B0%BE%EA%B8%B0.md) |
 
