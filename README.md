@@ -24,7 +24,7 @@
 |  18  |        구명 보트         |        그리디        |                        [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B5%AC%EB%AA%85_%EB%B3%B4%ED%8A%B8.md)                         |
 |  19  |  가장 큰 정사각형 찾기   |          DP          | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95_%EC%B0%BE%EA%B8%B0.md) |
 |  20  |      멀쩡한 사각형       |         구현         |               [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EB%A9%80%EC%A9%A1%ED%95%9C_%EC%82%AC%EA%B0%81%ED%98%95.md)                |
-|  21  |      괄호 회전하기       |         스택         |                [🔗]https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B4%84%ED%98%B8_%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.md)                |
+|  21  |      괄호 회전하기       |         스택         |               [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B4%84%ED%98%B8_%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.md)                |
 |  22  |     게임 맵 최단거리     |         BFS          |          [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EA%B2%8C%EC%9E%84_%EB%A7%B5_%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.md)           |
 |  23  |   행렬 테두리 회전하기   |         구현         | [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%ED%96%89%EB%A0%AC_%ED%85%8C%EB%91%90%EB%A6%AC_%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.md)  |
 
