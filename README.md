@@ -32,6 +32,7 @@
 |  26  |      영어 끝말잇기       |         해싱         |               [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%98%81%EC%96%B4_%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.md)                |
 |  27  |    이진 변환 반복하기    |      진법 변환       |      [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%9D%B4%EC%A7%84_%EB%B3%80%ED%99%98_%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md)      |
 |  28  |      최솟값 만들기       |         구현         |               [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%B5%9C%EC%86%9F%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)                |
+|  29  |       오픈 채팅방        |      구현, 객체      |               [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Levle2/%EC%B5%9C%EC%86%9F%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0.md)                |
 
 ### Level 3 ( 29 / 41 )
 
