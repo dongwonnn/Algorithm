@@ -72,3 +72,4 @@
 |  32  |    경주로 건설    |          .           |          [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%EA%B2%BD%EC%A3%BC%EB%A1%9C_%EA%B1%B4%EC%84%A4.md)           |
 |  33  |    기지국 설치    |          .           |          [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%EA%B8%B0%EC%A7%80%EA%B5%AD_%EC%84%A4%EC%B9%98.md)           |
 |  34  |     숫자 게임     |          .           |               [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%EC%88%AB%EC%9E%90_%EA%B2%8C%EC%9E%84.md)               |
+|  34  |     숫자 게임     |          .           |               [🔗](https://github.com/dongwonnn/Algorithm/blob/master/programmers/Level3/%EC%88%AB%EC%9E%90_%EA%B2%8C%EC%9E%84.md)               |
