@@ -37,7 +37,7 @@ const c = 11;
 solution(a, b, c);
 ```
 
-#### 3번 연필 개수
+#### 3번. 연필 개수
 
 - Math 객체 이용.
   - 올림: ceil
@@ -92,7 +92,7 @@ const arr = [5, 3, 7, 11, 2, 15, 17];
 solution(arr);
 ```
 
-#### 6번 홀수
+#### 6번. 홀수
 
 - filter 메서드 이용. 홀수 filter
 
@@ -130,7 +130,9 @@ const arr = [25, 23, 11, 47, 53, 17, 33];
 solution(num, arr);
 ```
 
-#### 8번 일곱 난쟁이
+#### 8번. 일곱 난쟁이
+
+- splice 이용해 제거
 
 ```javascript
 function solution(arr) {
@@ -151,7 +153,7 @@ const arr = [20, 7, 23, 19, 10, 15, 25, 8, 13];
 solution(arr);
 ```
 
-#### 9번 A를 #으로
+#### 9번. A를 #으로
 
 - 문자열 메서드 replace 사용
 
@@ -181,7 +183,7 @@ const target = 'R';
 solution(string, target);
 ```
 
-#### 11번 대문자 찾기
+#### 11번. 대문자 찾기
 
 1. 모든 경우 비교하는 방법
    - toUpperCase(): 대문자로 변경
@@ -202,7 +204,7 @@ const string = 'KoreaTimeGooD';
 solution(string);
 ```
 
-#### 12번 대문자로 통일
+#### 12번. 대문자로 통일
 
 ```javascript
 function solution(string) {
@@ -217,7 +219,7 @@ const string = 'ItIsTimeToStudy';
 solution(string);
 ```
 
-#### 13번 대소문자 변환
+#### 13번. 대소문자 변환
 
 ```javascript
 function solution(string) {
@@ -235,7 +237,7 @@ const string = 'StuDY';
 solution(string);
 ```
 
-#### 14번 가장 긴 문자열
+#### 14번. 가장 긴 문자열
 
 ```javascript
 function solution(string) {
@@ -247,7 +249,7 @@ const string = ['teacher', 'time', 'student', 'beautiful', 'good'];
 solution(string);
 ```
 
-#### 15번 가운데 문자 출력
+#### 15번. 가운데 문자 출력
 
 - string.subString(a,b): a ~ b-1 인덱스의 문자 자르기
 
@@ -269,7 +271,7 @@ const string = 'good';
 solution(string);
 ```
 
-#### 16번 중복 문자 제거
+#### 16번. 중복 문자 제거
 
 1. Set 이용
    - 배열에서 중복값 제거하는 방법 : `const newArr = [...new Set(arr)]`
