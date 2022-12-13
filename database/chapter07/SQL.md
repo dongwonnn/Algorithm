@@ -137,20 +137,20 @@ ALTER TALBE 테이블_이름 DROP CONSTRAINT 제약조건_이름;
    SELECT 제품명, 단가 + 500, AS "조정 단가"
    FROM 제품;
    ```
-6. 조건 검색 (논리 연산자, WHERE)
+6. 조건 검색 (논리 연산자, WHERE) [조건 검색 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/59037)
    1. AND, OR, NOT, =, >, <...
    ```shell
    SELECT 제품명, 단가 AS 가격
    FROM 제품
    [WHERE 컬럼1 = '한빛제과' AND 컬럼2 > 수량];
    ```
-7. LIKE를 이용한 검색
+7. LIKE를 이용한 검색 [LIKE LV1](https://school.programmers.co.kr/learn/courses/30/lessons/131112)
    1. 검색 조건을 부분적으로만 알고 있을 때
    2. 오직 문자열을 이용한 조건에서만 사용 가능
    3. 조건 예시
       1. '김%': '김'으로 시작하는 문자열
       2. '%김': '김'으로 끝나는 문자열
-      3. '%김%': '김'이 포함된 문자열
+      3. '%김%': '김'이 포함된 문자열[LIKE LV2](https://school.programmers.co.kr/learn/courses/30/lessons/59047)
       4. '김__': '김XX'인 문자열
       5. '__김%': 세 번째 글자가 '김'인 문자열
       ```shell
@@ -158,7 +158,7 @@ ALTER TALBE 테이블_이름 DROP CONSTRAINT 제약조건_이름;
       FROM 제품
       [WHERE 고객이름 LIKE '김%';
       ```   
-8. NULL을 이용한 검색
+8. NULL을 이용한 검색 [NOT NULL LV1](https://school.programmers.co.kr/learn/courses/30/lessons/59407)
    1. 특정 컬럼이 널 값인지를 비교하려 할 때
    2. **컬럼의 값이 NULL일 때 어떤 컬럼과 비교를 하면 무조건 false가 반환된다.**
    ```shell
@@ -167,29 +167,29 @@ ALTER TALBE 테이블_이름 DROP CONSTRAINT 제약조건_이름;
    [WHERE 나이 IS NULL';
    [WHERE 나이 IS NOT NULL';
    ```   
-9. 정렬 검색
+9. 정렬 검색 [정렬 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/59036)
    1. ORDER BY 키워드
    2. ORDER BY 속성 [ASC | DESC]
-   3. ORDER BY 속성1 ASC, 속성2 ASC, 속성3 DESC.. 
+   3. ORDER BY 속성1 ASC, 속성2 ASC, 속성3 DESC..  [여러 기준 정렬 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/59404)
    ```shell
    SELECT 주문 고객, 주문 제품
    FROM 주문
-   WHERE 수량 >= 10
+   WHERE 수량 >= 10f
    ORDER BY 주문 제품 ASC, 수량 DESC
    ```   
-10. 집계 함수 이용한 검색
+10. 집계 함수 이용한 검색 
     1. 통계 낼 때 사용
     2. 집계함수는 컬럼 함수라고도 불림
-    3. COUNT, MAX, MIN, (SUM, AVG -> 숫자만 가능)
+    3. COUNT, MAX, MIN, (SUM, AVG -> 숫자만 가능) [max, min LV1](https://school.programmers.co.kr/learn/courses/30/lessons/131697)
     4. null은 집계하지 않는다.
     5. WHERE에서는 사용불가, SELECT나 HAVING 절에서만 사용 가능
-    6. COUNT시 null은 집계하지 않는다. *로 COUNT 했을 땐 row의 개수를 세는 것
-    7. DISTINCT를 이용해 중복 제거한 row의 개수를 셀 수 있다.
+    6. COUNT시 null은 집계하지 않는다. *로 COUNT 했을 땐 row의 개수를 세는 것 [count LV1](https://school.programmers.co.kr/learn/courses/30/lessons/131528)
+    7. DISTINCT를 이용해 중복 제거한 row의 개수를 셀 수 있다. [distinct LV2](https://school.programmers.co.kr/learn/courses/30/lessons/59408)
    ```shell
    SELECT COUNT((DISTINCT(제조 업체)) AS '재고업체 수'
    FROM 제품
    ```    
-11. 그룹 검색 
+11. 그룹 검색 [group, having lv2](https://school.programmers.co.kr/learn/courses/30/lessons/59041)
     1. GROUP BY
     2. 그룹에 대한 조건을 추가하려면 HAVING
     3. SELCET 절에 그룹화 하려는 컬럼을 적고 결과물을 출력하는 컬럼도 적어주는 것이 좋다.
@@ -201,3 +201,9 @@ ALTER TALBE 테이블_이름 DROP CONSTRAINT 제약조건_이름;
    FROM 고객
    GROUP BY 등급 HAVING AVG(적립금) >= 1000
    ```    
+
+- [IFNULL LV1](https://school.programmers.co.kr/learn/courses/30/lessons/131114), [IFNULL LV1](https://school.programmers.co.kr/learn/courses/30/lessons/132201), [IFNULL LV2](https://school.programmers.co.kr/learn/courses/30/lessons/59410)
+- [LIMIT LV1](https://school.programmers.co.kr/learn/courses/30/lessons/59405)
+- [컬럼 자르기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/132203)
+- [date time max LV1](https://school.programmers.co.kr/learn/courses/30/lessons/59415), [date time min LV2](https://school.programmers.co.kr/learn/courses/30/lessons/59038)
+- [부속 질의문 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/133025)
