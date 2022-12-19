@@ -19,23 +19,39 @@ class DoublyLinkedList {
       this.head = newNode;
       this.tail = newNode;
     } else {
-      const currentNode = this.head;
       this.tail.next = newNode;
-      newNode.prev = currentNode;
+      newNode.prev = this.tail;
       this.tail = newNode;
     }
 
     this.length++;
     return this;
   }
-  pop() {}
+
+  pop() {
+    if (!this.head) return undefined;
+    const lastNode = this.tail;
+
+    if (this.length === 1) {
+      this.head = null;
+      this.tail = null;
+    } else {
+      this.tail = lastNode.prev;
+      this.tail.next = null;
+      lastNode.prev = null;
+    }
+
+    this.length--;
+    return lastNode;
+  }
+
   shift() {}
   unShift() {}
 }
 
-const firstNode = new Node('first node');
-firstNode.next = new Node('second node');
-console.log('test', firstNode);
+const list = new DoublyLinkedList();
+list.push('first node');
+list.push('second node');
 
 module.exports = {
   Node,

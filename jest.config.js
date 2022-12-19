@@ -1,5 +1,5 @@
 module.exports = {
   maxConcurrency: 1,
-  roots: ['./udemy'],
+  roots: ['./'],
   testEnvironment: 'node',
 };

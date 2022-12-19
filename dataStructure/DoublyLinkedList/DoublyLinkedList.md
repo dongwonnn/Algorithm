@@ -16,3 +16,10 @@
 3. tail의 next에 새로운 node를 저장
 4. 새로 만든 node의 prev에 이전 tail 저장
 5. tail을 새로운 node로 저장
+
+## pop
+1. list가 비어있다면 undefined 
+2. lastNode 저장
+3. pop 하고 길이가 0이면 null로 초기화
+4. 이전 node가 tail이 된다. next는 null
+5. length --
